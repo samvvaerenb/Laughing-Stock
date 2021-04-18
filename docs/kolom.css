@@ -1,0 +1,1180 @@
+body {
+    background-color: black; 
+}
+
+div.paragraph {
+    color: white;
+    margin-top: 10450px;
+    font-size: 30px;
+}
+
+
+
+div.paragraph2 {
+    color: white;
+    margin-top: 1000px;
+    font-size: 30px;
+}
+
+div.paragraph3 {
+    color: white;
+    margin-top: 910px;
+    font-size: 30px;
+}
+
+div.paragraph4 {
+    color: white;
+    margin-top: 1345px;
+    font-size: 30px;
+}
+
+div.paragraph5 {
+    color: white;
+    margin-top: 3880px;
+    font-size: 30px;
+}
+
+
+div.paragraph6 {
+    color: white;
+    margin-top: 1640px;
+    font-size: 30px;
+}
+
+div.paragraph7 {
+    color: white;
+    margin-top: 630px;
+    font-size: 30px;
+}
+
+div.paragraph8 {
+    color: white;
+    margin-top: 630px;
+    font-size: 30px;
+}
+
+div.paragraph9 {
+    color: white;
+    margin-top: 480px;
+    font-size: 30px;
+}
+
+div.paragraph10 {
+    color: white;
+    margin-top: 530px;
+    font-size: 30px;
+}
+
+div.paragraph11 {
+    color: white;
+    margin-top: 20730px;
+    font-size: 15px;
+}
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    padding: 10px; 
+}
+
+.left {
+    width: 25%;
+}
+
+.right {
+    width: 75%; 
+}
+
+.row:after{
+    content:""; 
+    display: table; 
+    clear: both; 
+}
+
+
+div.text{
+  text-align: left;
+  margin-left: 35px;
+  font-family: TEKST; 
+  font-size: 28px;
+  color: white;
+  src: url(text.otf);
+}
+
+
+div.s { animation: sample1 13000ms infinite forwards; line-height: 80%;
+
+}
+
+div.f { animation: sample1 5000ms infinite forwards; line-height: 80%;
+
+}
+
+div.n { animation: sample1 8000ms infinite forwards; line-height: 100%;
+
+}
+
+div.n2 { animation: sample1 8000ms infinite forwards; line-height: 2%; 
+
+}
+
+div.s2 { animation: sample1 13000ms infinite forwards; line-height: 2%; 
+
+}
+
+div.f2 { animation: sample1 5000ms infinite forwards; line-height: 2%; 
+
+}
+
+div.a {
+    line-height: 80%; 
+    
+}
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd {
+            font-family: "tapefacev1";
+            animation: tijd 10000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd2 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd2 {
+            font-family: "tapefacev1";
+            animation: tijd2 6000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd4 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd4 {
+            font-family: "tapefacev1";
+            animation: tijd4 5000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd5 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd5 {
+            font-family: "tapefacev1";
+            animation: tijd5 4000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd7 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd7 {
+            font-family: "tapefacev1";
+            animation: tijd7 5000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd8 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd8 {
+            font-family: "tapefacev1";
+            animation: tijd8 2000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd9 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd9 {
+            font-family: "tapefacev1";
+            animation: tijd9 2000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd10 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd10 {
+            font-family: "tapefacev1";
+            animation: tijd10 1500ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd11 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd11 {
+            font-family: "tapefacev1";
+            animation: tijd11 8000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd12 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd12 {
+            font-family: "tapefacev1";
+            animation: tijd12 3000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd13 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd13 {
+            font-family: "tapefacev1";
+            animation: tijd13 7000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd14 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd14 {
+            font-family: "tapefacev1";
+            animation: tijd14 12000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(TF_V.ttf);
+        }
+
+        @keyframes tijd15 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 500 ;
+                
+            }
+
+            
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 00;
+            }
+        }
+
+        #tijd15 {
+            font-family: "tapefacev1";
+            animation: tijd15 9000ms infinite forwards; 
+            font-size:250px;
+            color: white;
+        }
+
+@font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample8 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 00;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample8 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            animation: sample8 20000ms infinite forwards;
+            color: yellow;
+        }
+        @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
+@keyframes sample1 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample1 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: magenta;
+        }
+
+        @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample11 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+              }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample11 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: magenta;
+        }
+
+        @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample111 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+              }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample111 {
+            font-family: "tapefacev1";
+            font-size:20px;
+            color: magenta;
+        }
+
+        @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample12 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+              }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample12 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: magenta;
+        }
+
+        @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
+
+@keyframes sample2 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+           60% {
+             font-variation-settings: 
+            'base'150, 'dslv' 250;   }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+             }
+
+        #sample2 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: blueviolet
+        }
+
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample21 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+    
+             60% {
+                font-variation-settings: 'base'150, 'dslv' 250; 
+             }
+            
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample21 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: blueviolet
+        }
+
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+@keyframes sample22 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+               }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+    
+             60% {
+            font-variation-settings: 
+            'base'150, 'dslv' 250; 
+         }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample22 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: blueviolet
+        }
+
+
+
+
+
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample3 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample3 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: blue
+        }
+   
+
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample31 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample31 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: blue
+        }
+    
+
+
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample32 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample32 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: blue
+        }
+    
+
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample311 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample311 {
+            font-family: "tapefacev1";
+            font-size:20px;
+            color: blue
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
+
+
+@keyframes sample4 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample4 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: limegreen
+        }
+@font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+@keyframes sample41 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample41 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: limegreen
+        }
+@font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample42 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample42 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: limegreen
+        }
+@font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
+
+@keyframes sample5 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample5 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: yellow;
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample51 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample51 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: yellow;
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample52 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample52 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: yellow;
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
+
+
+
+@keyframes sample6 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample6 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: orange
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+@keyframes sample61 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample61 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: orange
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample62 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample62 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: orange
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
+
+
+@keyframes sample7 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample7 {
+            font-family: "tapefacev1";
+            font-size:170px;
+            color: red
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample71 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample71 {
+            font-family: "tapefacev1";
+            font-size:50px;
+            color: red
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+@keyframes sample72 {
+            0% {
+                font-variation-settings: 'base' 0, 'dslv' 0 ;
+                
+            }
+  
+              50% {
+                  font-variation-settings:  'base' 0, 'dslv' 500;
+              }
+              
+
+            100% {
+                font-variation-settings:   'base' 0, 'dslv' 0;
+            }
+        }
+
+        #sample72 {
+            font-family: "tapefacev1";
+            font-size:300px;
+            color: red
+        }
+    @font-face {
+            font-family: "tapefacev1";
+            src: url(Tapefacev3.ttf);
+        }
+
+
+
+
